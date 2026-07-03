@@ -34,7 +34,7 @@ International Conference on Emerging Innovations (ICEI 2026)
 
 📚 **IEEE Xplore:** [View Publication](https://ieeexplore.ieee.org/document/11447466)
 
-📄 **ResearchGate:** [View Publication](https://www.researchgate.net/publication/403376911_Autonomous_Water_Surface_Cleaning_Robot_Using_YOLO-Based_Computer_Vision_and_Obstacle_Avoidance)*
+📄 **ResearchGate:** [View Publication](https://www.researchgate.net/publication/403376911_Autonomous_Water_Surface_Cleaning_Robot_Using_YOLO-Based_Computer_Vision_and_Obstacle_Avoidance)
 
 If you use this repository for research or academic work, please consider citing the associated publication.
 
