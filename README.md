@@ -13,7 +13,6 @@ A complete end-to-end implementation of a semi-autonomous robotic platform for f
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-3B-C51A4A?logo=raspberrypi)
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?logo=arduino)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 </p>
 
