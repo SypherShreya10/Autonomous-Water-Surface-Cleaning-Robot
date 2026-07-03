@@ -1,0 +1,5 @@
+train: /content/yolo-trash-detection/train/images
+val: /content/yolo-trash-detection/valid/images
+
+nc: 4
+names: ['Metal', 'Paper', 'Plastic', 'Waste']
