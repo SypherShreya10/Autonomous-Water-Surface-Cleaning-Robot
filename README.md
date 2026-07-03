@@ -42,14 +42,21 @@ If you use this repository for research or academic work, please consider citing
 
 ## 📑 Table of Contents
 
-- Overview
-- Project Objectives
-- Key Features
-- System Architecture
-- Repository Structure
-- Getting Started
-- Results
-- Future Scope
+- [Overview](#-overview)
+- [Project Objectives](#-project-objectives)
+- [Key Features](#-key-features)
+- [Project Overview](#️-project-overview)
+- [System Architecture](#️-system-architecture)
+- [Hardware Architecture](#️-hardware-architecture)
+- [Hardware Connections](#-hardware-connections)
+- [Software Architecture](#-software-architecture)
+- [System Workflow](#-system-workflow)
+- [Design Decisions](#-design-decisions)
+- [Repository Structure](#-repository-structure)
+- [Getting Started](#-getting-started)
+- [Results](#-results)
+- [Future Scope](#-future-scope)
+- [Support](#-support)
 
 ## 📖 Overview
 
